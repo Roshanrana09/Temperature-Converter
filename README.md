@@ -25,8 +25,3 @@ This tool is perfect for students, developers, or anyone needing quick and accur
 | HTML5      | Markup and form structure |
 | CSS3       | Styling, layout, and responsiveness |
 | JavaScript | Conversion logic and dynamic interactivity |
-
----
-
-## 🔗 Live Demo
-[Click Here to View the Live Project](https://roshanrrana.github.io/Temperature-Converter/)
